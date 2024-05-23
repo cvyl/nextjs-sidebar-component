@@ -1,6 +1,6 @@
 'use client'
 
-import { Fragment, useState } from 'react';
+import { useState } from 'react';
 import { Menu, MenuItem } from '@headlessui/react';
 import { HiOutlineMenu } from 'react-icons/hi';
 
